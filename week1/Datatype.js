@@ -61,3 +61,4 @@ console.log("typeof mobileNumber : " +  typeof mobileNumber + " mobileNumber : "
 console.log("typeof isAutomation : " +  typeof isAutomation + " isAutomation : " + isAutomation);
 console.log("typeof hasPlaywright : " +  typeof hasPlaywright + " hasPlaywright : " + hasPlaywright);
 console.log("typeof salary : " +  typeof salary + " salary : " + salary);
+console.log("typeof 42 : " + typeof 42);

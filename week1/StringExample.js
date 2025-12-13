@@ -13,6 +13,7 @@ let msg = "Hello ";
 msg = msg + "Word";
 console.log("Concatenated String : " + msg);
 console.log("First Occurance of letter o : " + msg.indexOf('o'));
+console.log("First Occurance of letter o : " + msg.indexOf('z')); // -1 if given string is not found
 console.log("Last Occurance of letter o : " + msg.lastIndexOf('o'));
 console.log("Occurance of letter p : " + msg.indexOf('p'));
 console.log("Checks Occurance of word Hello : " + msg.includes('Hello'));
